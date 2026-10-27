@@ -1,0 +1,14 @@
+# 1. Crear una rama
+git switch -c desarrollo
+
+# 2. Crear un archivo de ejemplo
+echo "Mi primera practica" > prueba.txt
+
+# 3. Seleccionar el archivo
+git add prueba.txt
+
+# 4. Guardar una versión
+git commit -m "feat: agregar archivo de prueba"
+
+# 5. Subir la rama a GitHub
+git push -u origin desarrollo

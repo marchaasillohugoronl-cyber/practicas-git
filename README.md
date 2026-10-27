@@ -1,4 +1,4 @@
-
+------
 Manual del sotware
 
 Tecnologias
